@@ -1,0 +1,866 @@
+{
+ "tc_CIV_00": {
+  "frame": "c_CIV",
+  "code": "CIV-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_CIV_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_CIV_t00_par.png"
+ },
+ "tc_CIV_10": {
+  "frame": "c_CIV",
+  "code": "CIV-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_CIV_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_CIV_t10_par.png"
+ },
+ "tc_CIV_01": {
+  "frame": "c_CIV",
+  "code": "CIV-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_CIV_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_CIV_t01_par.png"
+ },
+ "tc_CIV_11": {
+  "frame": "c_CIV",
+  "code": "CIV-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_CIV_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_CIV_t11_par.png"
+ },
+ "tc_CYN_00": {
+  "frame": "c_CYN",
+  "code": "CYN-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_CYN_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_CYN_t00_par.png"
+ },
+ "tc_CYN_10": {
+  "frame": "c_CYN",
+  "code": "CYN-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_CYN_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_CYN_t10_par.png"
+ },
+ "tc_CYN_01": {
+  "frame": "c_CYN",
+  "code": "CYN-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_CYN_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_CYN_t01_par.png"
+ },
+ "tc_CYN_11": {
+  "frame": "c_CYN",
+  "code": "CYN-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_CYN_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_CYN_t11_par.png"
+ },
+ "tc_CYP_00": {
+  "frame": "c_CYP",
+  "code": "CYP-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_CYP_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_CYP_t00_par.png"
+ },
+ "tc_CYP_10": {
+  "frame": "c_CYP",
+  "code": "CYP-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_CYP_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_CYP_t10_par.png"
+ },
+ "tc_CYP_01": {
+  "frame": "c_CYP",
+  "code": "CYP-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_CYP_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_CYP_t01_par.png"
+ },
+ "tc_CYP_11": {
+  "frame": "c_CYP",
+  "code": "CYP-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_CYP_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_CYP_t11_par.png"
+ },
+ "tc_DJI_00": {
+  "frame": "c_DJI",
+  "code": "DJI-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_DJI_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_DJI_t00_par.png"
+ },
+ "tc_DJI_10": {
+  "frame": "c_DJI",
+  "code": "DJI-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_DJI_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_DJI_t10_par.png"
+ },
+ "tc_DJI_01": {
+  "frame": "c_DJI",
+  "code": "DJI-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_DJI_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_DJI_t01_par.png"
+ },
+ "tc_DJI_11": {
+  "frame": "c_DJI",
+  "code": "DJI-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_DJI_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_DJI_t11_par.png"
+ },
+ "tc_DZA_00": {
+  "frame": "c_DZA",
+  "code": "DZA-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_DZA_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_DZA_t00_par.png"
+ },
+ "tc_DZA_10": {
+  "frame": "c_DZA",
+  "code": "DZA-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_DZA_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_DZA_t10_par.png"
+ },
+ "tc_DZA_01": {
+  "frame": "c_DZA",
+  "code": "DZA-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_DZA_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_DZA_t01_par.png"
+ },
+ "tc_DZA_11": {
+  "frame": "c_DZA",
+  "code": "DZA-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_DZA_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_DZA_t11_par.png"
+ },
+ "tc_EGY_00": {
+  "frame": "c_EGY",
+  "code": "EGY-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_EGY_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_EGY_t00_par.png"
+ },
+ "tc_EGY_10": {
+  "frame": "c_EGY",
+  "code": "EGY-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_EGY_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_EGY_t10_par.png"
+ },
+ "tc_EGY_01": {
+  "frame": "c_EGY",
+  "code": "EGY-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_EGY_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_EGY_t01_par.png"
+ },
+ "tc_EGY_11": {
+  "frame": "c_EGY",
+  "code": "EGY-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_EGY_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_EGY_t11_par.png"
+ },
+ "tc_ERI_00": {
+  "frame": "c_ERI",
+  "code": "ERI-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_ERI_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_ERI_t00_par.png"
+ },
+ "tc_ERI_10": {
+  "frame": "c_ERI",
+  "code": "ERI-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_ERI_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_ERI_t10_par.png"
+ },
+ "tc_ERI_01": {
+  "frame": "c_ERI",
+  "code": "ERI-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_ERI_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_ERI_t01_par.png"
+ },
+ "tc_ERI_11": {
+  "frame": "c_ERI",
+  "code": "ERI-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_ERI_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_ERI_t11_par.png"
+ },
+ "tc_GIN_00": {
+  "frame": "c_GIN",
+  "code": "GIN-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GIN_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GIN_t00_par.png"
+ },
+ "tc_GIN_10": {
+  "frame": "c_GIN",
+  "code": "GIN-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GIN_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GIN_t10_par.png"
+ },
+ "tc_GIN_01": {
+  "frame": "c_GIN",
+  "code": "GIN-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GIN_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GIN_t01_par.png"
+ },
+ "tc_GIN_11": {
+  "frame": "c_GIN",
+  "code": "GIN-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GIN_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GIN_t11_par.png"
+ },
+ "tc_GMB_00": {
+  "frame": "c_GMB",
+  "code": "GMB-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GMB_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GMB_t00_par.png"
+ },
+ "tc_GMB_10": {
+  "frame": "c_GMB",
+  "code": "GMB-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GMB_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GMB_t10_par.png"
+ },
+ "tc_GMB_01": {
+  "frame": "c_GMB",
+  "code": "GMB-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GMB_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GMB_t01_par.png"
+ },
+ "tc_GMB_11": {
+  "frame": "c_GMB",
+  "code": "GMB-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GMB_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GMB_t11_par.png"
+ },
+ "tc_GNB_00": {
+  "frame": "c_GNB",
+  "code": "GNB-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GNB_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GNB_t00_par.png"
+ },
+ "tc_GNB_10": {
+  "frame": "c_GNB",
+  "code": "GNB-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GNB_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GNB_t10_par.png"
+ },
+ "tc_GNB_01": {
+  "frame": "c_GNB",
+  "code": "GNB-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GNB_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GNB_t01_par.png"
+ },
+ "tc_GNB_11": {
+  "frame": "c_GNB",
+  "code": "GNB-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GNB_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GNB_t11_par.png"
+ },
+ "tc_GRC_00": {
+  "frame": "c_GRC",
+  "code": "GRC-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GRC_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GRC_t00_par.png"
+ },
+ "tc_GRC_10": {
+  "frame": "c_GRC",
+  "code": "GRC-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GRC_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GRC_t10_par.png"
+ },
+ "tc_GRC_01": {
+  "frame": "c_GRC",
+  "code": "GRC-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GRC_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GRC_t01_par.png"
+ },
+ "tc_GRC_11": {
+  "frame": "c_GRC",
+  "code": "GRC-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GRC_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_GRC_t11_par.png"
+ },
+ "tc_IRQ_00": {
+  "frame": "c_IRQ",
+  "code": "IRQ-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_IRQ_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_IRQ_t00_par.png"
+ },
+ "tc_IRQ_10": {
+  "frame": "c_IRQ",
+  "code": "IRQ-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_IRQ_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_IRQ_t10_par.png"
+ },
+ "tc_IRQ_01": {
+  "frame": "c_IRQ",
+  "code": "IRQ-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_IRQ_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_IRQ_t01_par.png"
+ },
+ "tc_IRQ_11": {
+  "frame": "c_IRQ",
+  "code": "IRQ-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_IRQ_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_IRQ_t11_par.png"
+ },
+ "tc_JOR_00": {
+  "frame": "c_JOR",
+  "code": "JOR-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_JOR_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_JOR_t00_par.png"
+ },
+ "tc_JOR_10": {
+  "frame": "c_JOR",
+  "code": "JOR-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_JOR_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_JOR_t10_par.png"
+ },
+ "tc_JOR_01": {
+  "frame": "c_JOR",
+  "code": "JOR-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_JOR_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_JOR_t01_par.png"
+ },
+ "tc_JOR_11": {
+  "frame": "c_JOR",
+  "code": "JOR-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_JOR_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_JOR_t11_par.png"
+ },
+ "tc_KWT_00": {
+  "frame": "c_KWT",
+  "code": "KWT-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_KWT_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_KWT_t00_par.png"
+ },
+ "tc_KWT_10": {
+  "frame": "c_KWT",
+  "code": "KWT-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_KWT_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_KWT_t10_par.png"
+ },
+ "tc_KWT_01": {
+  "frame": "c_KWT",
+  "code": "KWT-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_KWT_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_KWT_t01_par.png"
+ },
+ "tc_KWT_11": {
+  "frame": "c_KWT",
+  "code": "KWT-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_KWT_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_KWT_t11_par.png"
+ },
+ "tc_LBN_00": {
+  "frame": "c_LBN",
+  "code": "LBN-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_LBN_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_LBN_t00_par.png"
+ },
+ "tc_LBN_10": {
+  "frame": "c_LBN",
+  "code": "LBN-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_LBN_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_LBN_t10_par.png"
+ },
+ "tc_LBN_01": {
+  "frame": "c_LBN",
+  "code": "LBN-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_LBN_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_LBN_t01_par.png"
+ },
+ "tc_LBN_11": {
+  "frame": "c_LBN",
+  "code": "LBN-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_LBN_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_LBN_t11_par.png"
+ },
+ "tc_LBR_00": {
+  "frame": "c_LBR",
+  "code": "LBR-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_LBR_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_LBR_t00_par.png"
+ },
+ "tc_LBR_10": {
+  "frame": "c_LBR",
+  "code": "LBR-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_LBR_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_LBR_t10_par.png"
+ },
+ "tc_LBR_01": {
+  "frame": "c_LBR",
+  "code": "LBR-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_LBR_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_LBR_t01_par.png"
+ },
+ "tc_LBR_11": {
+  "frame": "c_LBR",
+  "code": "LBR-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_LBR_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_LBR_t11_par.png"
+ },
+ "tc_LBY_00": {
+  "frame": "c_LBY",
+  "code": "LBY-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_LBY_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_LBY_t00_par.png"
+ },
+ "tc_LBY_10": {
+  "frame": "c_LBY",
+  "code": "LBY-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_LBY_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_LBY_t10_par.png"
+ },
+ "tc_LBY_01": {
+  "frame": "c_LBY",
+  "code": "LBY-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_LBY_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_LBY_t01_par.png"
+ },
+ "tc_LBY_11": {
+  "frame": "c_LBY",
+  "code": "LBY-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_LBY_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_LBY_t11_par.png"
+ },
+ "tc_MAR_00": {
+  "frame": "c_MAR",
+  "code": "MAR-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MAR_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MAR_t00_par.png"
+ },
+ "tc_MAR_10": {
+  "frame": "c_MAR",
+  "code": "MAR-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MAR_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MAR_t10_par.png"
+ },
+ "tc_MAR_01": {
+  "frame": "c_MAR",
+  "code": "MAR-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MAR_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MAR_t01_par.png"
+ },
+ "tc_MAR_11": {
+  "frame": "c_MAR",
+  "code": "MAR-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MAR_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MAR_t11_par.png"
+ },
+ "tc_MLI_00": {
+  "frame": "c_MLI",
+  "code": "MLI-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MLI_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MLI_t00_par.png"
+ },
+ "tc_MLI_10": {
+  "frame": "c_MLI",
+  "code": "MLI-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MLI_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MLI_t10_par.png"
+ },
+ "tc_MLI_01": {
+  "frame": "c_MLI",
+  "code": "MLI-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MLI_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MLI_t01_par.png"
+ },
+ "tc_MLI_11": {
+  "frame": "c_MLI",
+  "code": "MLI-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MLI_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MLI_t11_par.png"
+ },
+ "tc_MLT_00": {
+  "frame": "c_MLT",
+  "code": "MLT-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MLT_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MLT_t00_par.png"
+ },
+ "tc_MLT_10": {
+  "frame": "c_MLT",
+  "code": "MLT-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MLT_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MLT_t10_par.png"
+ },
+ "tc_MLT_01": {
+  "frame": "c_MLT",
+  "code": "MLT-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MLT_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MLT_t01_par.png"
+ },
+ "tc_MLT_11": {
+  "frame": "c_MLT",
+  "code": "MLT-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MLT_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MLT_t11_par.png"
+ },
+ "tc_MRT_00": {
+  "frame": "c_MRT",
+  "code": "MRT-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MRT_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MRT_t00_par.png"
+ },
+ "tc_MRT_10": {
+  "frame": "c_MRT",
+  "code": "MRT-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MRT_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MRT_t10_par.png"
+ },
+ "tc_MRT_01": {
+  "frame": "c_MRT",
+  "code": "MRT-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MRT_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MRT_t01_par.png"
+ },
+ "tc_MRT_11": {
+  "frame": "c_MRT",
+  "code": "MRT-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MRT_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_MRT_t11_par.png"
+ },
+ "tc_NER_00": {
+  "frame": "c_NER",
+  "code": "NER-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_NER_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_NER_t00_par.png"
+ },
+ "tc_NER_10": {
+  "frame": "c_NER",
+  "code": "NER-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_NER_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_NER_t10_par.png"
+ },
+ "tc_NER_01": {
+  "frame": "c_NER",
+  "code": "NER-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_NER_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_NER_t01_par.png"
+ },
+ "tc_NER_11": {
+  "frame": "c_NER",
+  "code": "NER-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_NER_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_NER_t11_par.png"
+ },
+ "tc_OMN_00": {
+  "frame": "c_OMN",
+  "code": "OMN-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_OMN_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_OMN_t00_par.png"
+ },
+ "tc_OMN_10": {
+  "frame": "c_OMN",
+  "code": "OMN-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_OMN_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_OMN_t10_par.png"
+ },
+ "tc_OMN_01": {
+  "frame": "c_OMN",
+  "code": "OMN-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_OMN_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_OMN_t01_par.png"
+ },
+ "tc_OMN_11": {
+  "frame": "c_OMN",
+  "code": "OMN-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_OMN_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_OMN_t11_par.png"
+ },
+ "tc_PSE_00": {
+  "frame": "c_PSE",
+  "code": "PSE-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_PSE_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_PSE_t00_par.png"
+ },
+ "tc_PSE_10": {
+  "frame": "c_PSE",
+  "code": "PSE-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_PSE_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_PSE_t10_par.png"
+ },
+ "tc_PSE_01": {
+  "frame": "c_PSE",
+  "code": "PSE-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_PSE_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_PSE_t01_par.png"
+ },
+ "tc_PSE_11": {
+  "frame": "c_PSE",
+  "code": "PSE-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_PSE_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_PSE_t11_par.png"
+ },
+ "tc_QAT_00": {
+  "frame": "c_QAT",
+  "code": "QAT-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_QAT_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_QAT_t00_par.png"
+ },
+ "tc_QAT_10": {
+  "frame": "c_QAT",
+  "code": "QAT-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_QAT_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_QAT_t10_par.png"
+ },
+ "tc_QAT_01": {
+  "frame": "c_QAT",
+  "code": "QAT-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_QAT_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_QAT_t01_par.png"
+ },
+ "tc_QAT_11": {
+  "frame": "c_QAT",
+  "code": "QAT-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_QAT_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_QAT_t11_par.png"
+ },
+ "tc_SAH_00": {
+  "frame": "c_SAH",
+  "code": "SAH-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SAH_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SAH_t00_par.png"
+ },
+ "tc_SAH_10": {
+  "frame": "c_SAH",
+  "code": "SAH-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SAH_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SAH_t10_par.png"
+ },
+ "tc_SAH_01": {
+  "frame": "c_SAH",
+  "code": "SAH-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SAH_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SAH_t01_par.png"
+ },
+ "tc_SAH_11": {
+  "frame": "c_SAH",
+  "code": "SAH-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SAH_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SAH_t11_par.png"
+ },
+ "tc_SAU_00": {
+  "frame": "c_SAU",
+  "code": "SAU-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SAU_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SAU_t00_par.png"
+ },
+ "tc_SAU_10": {
+  "frame": "c_SAU",
+  "code": "SAU-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SAU_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SAU_t10_par.png"
+ },
+ "tc_SAU_01": {
+  "frame": "c_SAU",
+  "code": "SAU-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SAU_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SAU_t01_par.png"
+ },
+ "tc_SAU_11": {
+  "frame": "c_SAU",
+  "code": "SAU-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SAU_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SAU_t11_par.png"
+ },
+ "tc_SDN_00": {
+  "frame": "c_SDN",
+  "code": "SDN-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SDN_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SDN_t00_par.png"
+ },
+ "tc_SDN_10": {
+  "frame": "c_SDN",
+  "code": "SDN-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SDN_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SDN_t10_par.png"
+ },
+ "tc_SDN_01": {
+  "frame": "c_SDN",
+  "code": "SDN-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SDN_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SDN_t01_par.png"
+ },
+ "tc_SDN_11": {
+  "frame": "c_SDN",
+  "code": "SDN-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SDN_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SDN_t11_par.png"
+ },
+ "tc_SEN_00": {
+  "frame": "c_SEN",
+  "code": "SEN-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SEN_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SEN_t00_par.png"
+ },
+ "tc_SEN_10": {
+  "frame": "c_SEN",
+  "code": "SEN-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SEN_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SEN_t10_par.png"
+ },
+ "tc_SEN_01": {
+  "frame": "c_SEN",
+  "code": "SEN-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SEN_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SEN_t01_par.png"
+ },
+ "tc_SEN_11": {
+  "frame": "c_SEN",
+  "code": "SEN-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SEN_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SEN_t11_par.png"
+ },
+ "tc_SLE_00": {
+  "frame": "c_SLE",
+  "code": "SLE-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SLE_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SLE_t00_par.png"
+ },
+ "tc_SLE_10": {
+  "frame": "c_SLE",
+  "code": "SLE-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SLE_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SLE_t10_par.png"
+ },
+ "tc_SLE_01": {
+  "frame": "c_SLE",
+  "code": "SLE-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SLE_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SLE_t01_par.png"
+ },
+ "tc_SLE_11": {
+  "frame": "c_SLE",
+  "code": "SLE-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SLE_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SLE_t11_par.png"
+ },
+ "tc_SOL_00": {
+  "frame": "c_SOL",
+  "code": "SOL-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SOL_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SOL_t00_par.png"
+ },
+ "tc_SOL_10": {
+  "frame": "c_SOL",
+  "code": "SOL-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SOL_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SOL_t10_par.png"
+ },
+ "tc_SOL_01": {
+  "frame": "c_SOL",
+  "code": "SOL-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SOL_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SOL_t01_par.png"
+ },
+ "tc_SOL_11": {
+  "frame": "c_SOL",
+  "code": "SOL-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SOL_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SOL_t11_par.png"
+ },
+ "tc_SYR_00": {
+  "frame": "c_SYR",
+  "code": "SYR-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SYR_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SYR_t00_par.png"
+ },
+ "tc_SYR_10": {
+  "frame": "c_SYR",
+  "code": "SYR-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SYR_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SYR_t10_par.png"
+ },
+ "tc_SYR_01": {
+  "frame": "c_SYR",
+  "code": "SYR-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SYR_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SYR_t01_par.png"
+ },
+ "tc_SYR_11": {
+  "frame": "c_SYR",
+  "code": "SYR-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SYR_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_SYR_t11_par.png"
+ },
+ "tc_TCD_00": {
+  "frame": "c_TCD",
+  "code": "TCD-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_TCD_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_TCD_t00_par.png"
+ },
+ "tc_TCD_10": {
+  "frame": "c_TCD",
+  "code": "TCD-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_TCD_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_TCD_t10_par.png"
+ },
+ "tc_TCD_01": {
+  "frame": "c_TCD",
+  "code": "TCD-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_TCD_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_TCD_t01_par.png"
+ },
+ "tc_TCD_11": {
+  "frame": "c_TCD",
+  "code": "TCD-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_TCD_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_TCD_t11_par.png"
+ },
+ "tc_TUN_00": {
+  "frame": "c_TUN",
+  "code": "TUN-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_TUN_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_TUN_t00_par.png"
+ },
+ "tc_TUN_10": {
+  "frame": "c_TUN",
+  "code": "TUN-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_TUN_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_TUN_t10_par.png"
+ },
+ "tc_TUN_01": {
+  "frame": "c_TUN",
+  "code": "TUN-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_TUN_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_TUN_t01_par.png"
+ },
+ "tc_TUN_11": {
+  "frame": "c_TUN",
+  "code": "TUN-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_TUN_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_TUN_t11_par.png"
+ },
+ "tc_TUR_00": {
+  "frame": "c_TUR",
+  "code": "TUR-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_TUR_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_TUR_t00_par.png"
+ },
+ "tc_TUR_10": {
+  "frame": "c_TUR",
+  "code": "TUR-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_TUR_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_TUR_t10_par.png"
+ },
+ "tc_TUR_01": {
+  "frame": "c_TUR",
+  "code": "TUR-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_TUR_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_TUR_t01_par.png"
+ },
+ "tc_TUR_11": {
+  "frame": "c_TUR",
+  "code": "TUR-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_TUR_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_TUR_t11_par.png"
+ },
+ "tc_YEM_00": {
+  "frame": "c_YEM",
+  "code": "YEM-00",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_YEM_t00_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_YEM_t00_par.png"
+ },
+ "tc_YEM_10": {
+  "frame": "c_YEM",
+  "code": "YEM-10",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_YEM_t10_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_YEM_t10_par.png"
+ },
+ "tc_YEM_01": {
+  "frame": "c_YEM",
+  "code": "YEM-01",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_YEM_t01_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_YEM_t01_par.png"
+ },
+ "tc_YEM_11": {
+  "frame": "c_YEM",
+  "code": "YEM-11",
+  "geo": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_YEM_t11_geo.png",
+  "par": "E:\\Claude-projects\\Qesas\\experiments\\mapdive2\\lib\\c_YEM_t11_par.png"
+ }
+}
